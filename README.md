@@ -21,9 +21,9 @@ Abre `index.html` directamente en el navegador (Chrome), o clona el repositorio 
 
 Capturas de pantalla de la página funcionando:
 
-<!-- Agrega aquí las imágenes, por ejemplo: -->
-<!-- ![Vista de la página](assets/evidencia-1.png) -->
+![Vista de la página](assets/evidencia1.png)
+![Un video que me gusta](assets/evidencia2.png)
 
 ## Autor
 
-Wandel de Jesús — Estudiante de Desarrollo de Software, ITLA
+Wandel De Jesus — Estudiante de Desarrollo de Software, ITLA
