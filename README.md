@@ -11,6 +11,8 @@ tarea1-pweb/
 │   └── styles.css
 └── assets/
     └── foto-wandel.jpeg
+        evidencia1
+        evidencia2
 ```
 
 ## Cómo verla
